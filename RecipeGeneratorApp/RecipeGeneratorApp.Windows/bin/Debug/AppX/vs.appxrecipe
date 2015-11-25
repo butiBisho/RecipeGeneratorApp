@@ -1,0 +1,102 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>SAMUEL</Machine>
+    <WindowsUser>Buti Samuel Bisho</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>554fcd00-11de-452b-b04c-6b791db1dc02</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\Buti Samuel Bisho\documents\visual studio 2013\Projects\RecipeGeneratorApp\RecipeGeneratorApp\RecipeGeneratorApp.Windows\obj\Debug\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>DB89E1954F35920FC1703A7E7774E907D50FF3976D6668685B1BAC3896345BCC</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>554fcd00-11de-452b-b04c-6b791db1dc02_1.0.0.0_neutral__vaw6xma9avcyr</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>554fcd00-11de-452b-b04c-6b791db1dc02_vaw6xma9avcyr!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>554fcd00-11de-452b-b04c-6b791db1dc02</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Buti Samuel Bisho</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Buti Samuel Bisho\documents\visual studio 2013\Projects\RecipeGeneratorApp\RecipeGeneratorApp\RecipeGeneratorApp.Windows\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-11-21T16:48:31.566</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Buti Samuel Bisho\documents\visual studio 2013\Projects\RecipeGeneratorApp\RecipeGeneratorApp\RecipeGeneratorApp.Windows\bin\Debug\RecipeGeneratorApp.Windows.exe">
+      <PackagePath>RecipeGeneratorApp.Windows.exe</PackagePath>
+      <Modified>2015-11-21T16:48:29.216</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Buti Samuel Bisho\documents\visual studio 2013\Projects\RecipeGeneratorApp\RecipeGeneratorApp\RecipeGeneratorApp.Windows\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-03-14T08:55:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Buti Samuel Bisho\documents\visual studio 2013\Projects\RecipeGeneratorApp\RecipeGeneratorApp\RecipeGeneratorApp.Windows\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-03-14T08:55:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Buti Samuel Bisho\documents\visual studio 2013\Projects\RecipeGeneratorApp\RecipeGeneratorApp\RecipeGeneratorApp.Windows\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-03-14T08:55:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Buti Samuel Bisho\documents\visual studio 2013\Projects\RecipeGeneratorApp\RecipeGeneratorApp\RecipeGeneratorApp.Windows\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-03-14T08:55:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Buti Samuel Bisho\documents\visual studio 2013\Projects\RecipeGeneratorApp\RecipeGeneratorApp\RecipeGeneratorApp.Windows\Assets\WideLogo.scale-100.png">
+      <PackagePath>Assets\WideLogo.scale-100.png</PackagePath>
+      <Modified>2014-03-14T08:55:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Buti Samuel Bisho\documents\visual studio 2013\Projects\RecipeGeneratorApp\RecipeGeneratorApp\RecipeGeneratorApp.Shared\Assets\LightGray.png">
+      <PackagePath>Assets\LightGray.png</PackagePath>
+      <Modified>2014-03-14T08:55:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Buti Samuel Bisho\documents\visual studio 2013\Projects\RecipeGeneratorApp\RecipeGeneratorApp\RecipeGeneratorApp.Shared\Assets\MediumGray.png">
+      <PackagePath>Assets\MediumGray.png</PackagePath>
+      <Modified>2014-03-14T08:55:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Buti Samuel Bisho\documents\visual studio 2013\Projects\RecipeGeneratorApp\RecipeGeneratorApp\RecipeGeneratorApp.Shared\Assets\DarkGray.png">
+      <PackagePath>Assets\DarkGray.png</PackagePath>
+      <Modified>2014-03-14T08:55:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Buti Samuel Bisho\documents\visual studio 2013\Projects\RecipeGeneratorApp\RecipeGeneratorApp\RecipeGeneratorApp.Shared\DataModel\SampleData.json">
+      <PackagePath>DataModel\SampleData.json</PackagePath>
+      <Modified>2015-11-21T10:50:17.975</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Buti Samuel Bisho\documents\visual studio 2013\Projects\RecipeGeneratorApp\RecipeGeneratorApp\RecipeGeneratorApp.Windows\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2015-11-08T11:40:24.028</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Buti Samuel Bisho\documents\visual studio 2013\Projects\RecipeGeneratorApp\RecipeGeneratorApp\RecipeGeneratorApp.Windows\bin\Debug\HubPage.xbf">
+      <PackagePath>HubPage.xbf</PackagePath>
+      <Modified>2015-11-08T11:40:24.049</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Buti Samuel Bisho\documents\visual studio 2013\Projects\RecipeGeneratorApp\RecipeGeneratorApp\RecipeGeneratorApp.Windows\bin\Debug\SectionPage.xbf">
+      <PackagePath>SectionPage.xbf</PackagePath>
+      <Modified>2015-11-08T11:40:24.060</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Buti Samuel Bisho\documents\visual studio 2013\Projects\RecipeGeneratorApp\RecipeGeneratorApp\RecipeGeneratorApp.Windows\bin\Debug\ItemPage.xbf">
+      <PackagePath>ItemPage.xbf</PackagePath>
+      <Modified>2015-11-21T11:40:15.332</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Buti Samuel Bisho\documents\visual studio 2013\Projects\RecipeGeneratorApp\RecipeGeneratorApp\RecipeGeneratorApp.Windows\bin\Debug\Welcome.xbf">
+      <PackagePath>Welcome.xbf</PackagePath>
+      <Modified>2015-11-21T16:48:28.419</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Buti Samuel Bisho\documents\visual studio 2013\Projects\RecipeGeneratorApp\RecipeGeneratorApp\RecipeGeneratorApp.Windows\bin\Debug\RecipeGeneratorApp.Windows.xr.xml">
+      <PackagePath>RecipeGeneratorApp.Windows.xr.xml</PackagePath>
+      <Modified>2015-11-21T16:48:27.998</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Buti Samuel Bisho\documents\visual studio 2013\Projects\RecipeGeneratorApp\RecipeGeneratorApp\RecipeGeneratorApp.Windows\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2015-11-21T16:48:30.031</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

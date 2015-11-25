@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <MSBuildAllProjects>$(MSBuildAllProjects);$(MSBuildThisFileFullPath)</MSBuildAllProjects>
+    <HasSharedItems>true</HasSharedItems>
+    <SharedGUID>e3dc9f88-bd22-4ada-a77f-4b44a4be689e</SharedGUID>
+  </PropertyGroup>
+  <PropertyGroup Label="Configuration">
+    <Import_RootNamespace>RecipeGeneratorApp</Import_RootNamespace>
+  </PropertyGroup>
+  <ItemGroup>
+    <ApplicationDefinition Include="$(MSBuildThisFileDirectory)App.xaml">
+      <SubType>Designer</SubType>
+    </ApplicationDefinition>
+    <Compile Include="$(MSBuildThisFileDirectory)App.xaml.cs">
+      <DependentUpon>App.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="$(MSBuildThisFileDirectory)DataModel\SampleDataSource.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Functions\Controls.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Functions\Insert.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Functions\Message.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Functions\Query.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Functions\Validate.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Functions\Variables.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Functions\ViewModelBase.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)model-class\Likes.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)model-class\Member.cs" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\136320.jpg" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\21785.jpg" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\4020101708.jpg" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\405664.jpg" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\lambchops.jpg" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\lasagnaemiliana.jpeg" />
+    <Content Include="$(MSBuildThisFileDirectory)DataModel\SampleData.json" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\LightGray.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\MediumGray.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\DarkGray.png" />
+    <Compile Include="$(MSBuildThisFileDirectory)Common\NavigationHelper.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Common\RelayCommand.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Common\SuspensionManager.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Common\ObservableDictionary.cs" />
+    <Content Include="$(MSBuildThisFileDirectory)images\136320.jpg" />
+    <Content Include="$(MSBuildThisFileDirectory)images\21785.jpg" />
+    <Content Include="$(MSBuildThisFileDirectory)images\4020101708.jpg" />
+    <Content Include="$(MSBuildThisFileDirectory)images\405664.jpg" />
+    <Content Include="$(MSBuildThisFileDirectory)images\lambchops.jpg" />
+    <Content Include="$(MSBuildThisFileDirectory)images\RGApp-logo.png" />
+    <Content Include="$(MSBuildThisFileDirectory)images\lasagnaemiliana.jpeg" />
+    <PRIResource Include="$(MSBuildThisFileDirectory)Strings\en-US\Resources.resw" />
+  </ItemGroup>
+</Project>

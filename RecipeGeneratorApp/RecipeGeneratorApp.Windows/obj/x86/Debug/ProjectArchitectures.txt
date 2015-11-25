@@ -1,0 +1,1 @@
+C:\Users\Buti Samuel Bisho\Documents\Visual Studio 2013\Projects\RecipeGeneratorApp\RecipeGeneratorApp\RecipeGeneratorApp.Windows\RecipeGeneratorApp.Windows.csproj;x86
